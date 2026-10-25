@@ -1,0 +1,4 @@
+mesh/raw/calamagrostis-canescens/calamagrostis-canescens-mesh-v1.bin filter=lfs diff=lfs merge=lfs -text
+mesh/baked/009-canopy-btf/btf-v1-calamagrostis-canescens.bin filter=lfs diff=lfs merge=lfs -text
+mesh/baked/009-canopy-btf/btf-v1-elymus-repens.bin filter=lfs diff=lfs merge=lfs -text
+mesh/baked/009-canopy-btf/btf-v1-poa-pratensis.bin filter=lfs diff=lfs merge=lfs -text
